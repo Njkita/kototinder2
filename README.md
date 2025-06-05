@@ -68,7 +68,7 @@ lib/
 
 # Ссылка на скачивание актуальной версии APK:
 
-- https://drive.google.com/file/d/1vndt4fW_73AszGhM2fmUhXcKmPnRQvbG/view?usp=drive_link
+- https://drive.google.com/file/d/1HKgHQfK7BegtACT7J8pU_ei7dqXn6X_8/view?usp=sharing
 
 # Скриншоты приложения (нового функционала)
 
@@ -76,10 +76,11 @@ lib/
  
 ![2025-06-04 (7)](https://github.com/user-attachments/assets/c3a99bb5-c4e9-4030-8556-e7e44c1891d0)
 
-## Экран лайкнутых котиков, отсортированных по времени добавления:
+## Экран лайкнутых котиков, отсортированных по породе:
 
-![2025-06-04 (10)](https://github.com/user-attachments/assets/bf66084b-6c2b-439e-a8a4-46b99bb206d8)
+![Снимок экрана 2025-06-05 044659](https://github.com/user-attachments/assets/e57d0fc7-868f-4717-9137-52a544803e44)
 
 ## Сообщение об удалении котика из лайкнутых:
 
-![2025-06-04 (11)](https://github.com/user-attachments/assets/14bbf616-493a-4f91-9a14-369de655ee25)
+![2](https://github.com/user-attachments/assets/be321514-a2ac-41dc-9570-1af281e0be78)
+
